@@ -1,3 +1,4 @@
+//Write a Java program to compare two numbers and display the larger one, or indicate if they are equal.
 import java.util.Scanner;
 public class largestof2numbers {
     public static void main(String[] args){
