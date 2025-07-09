@@ -1,3 +1,4 @@
+//Write a Java program that functions as a simple calculator for two numbers, allowing the user to perform addition, subtraction, multiplication, or division.
 import java.util.Scanner;
 
 public class twonumbercalculator {
