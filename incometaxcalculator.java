@@ -1,3 +1,4 @@
+//Write a Java program to calculate income tax based on user input
 import java.util.Scanner;
 
 public class incometaxcalculator {
